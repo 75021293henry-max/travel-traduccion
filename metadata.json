@@ -1,0 +1,7 @@
+{
+  "name": "Traveller A1 AI Tutor",
+  "description": "A specialized AI tutor for the 'Traveller Beginner' A1 level book, featuring automatic exercise completion, visual page analysis, and simplified Spanish-friendly pronunciation guides.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
